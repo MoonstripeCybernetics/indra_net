@@ -36,7 +36,7 @@ export default function Home() {
               Get Started Free
             </Link>
             <a
-              href="https://github.com/moonstripe/indra_db"
+              href="https://github.com/MoonstripeCybernetics/indra_db"
               className="border border-gray-700 hover:border-gray-500 px-8 py-3 rounded-lg font-semibold text-lg transition-colors"
             >
               View on GitHub

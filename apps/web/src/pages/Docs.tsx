@@ -58,7 +58,7 @@ export default function Docs() {
               <div className="mt-8 p-4 bg-purple-900/20 border border-purple-800/50 rounded-lg">
                 <p className="text-sm text-purple-300 mb-2">Need help?</p>
                 <a 
-                  href="https://github.com/moonstripe/indra_db/issues"
+                  href="https://github.com/MoonstripeCybernetics/indra_db/issues"
                   className="text-sm text-purple-400 hover:text-purple-300"
                 >
                   Open an issue on GitHub →

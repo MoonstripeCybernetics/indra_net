@@ -86,7 +86,7 @@ export default function Layout() {
               <p>© 2026 IndraDB. Open source.</p>
             </div>
             <div className="flex gap-6">
-              <a href="https://github.com/moonstripe/indra_db" className="hover:text-gray-300">
+              <a href="https://github.com/MoonstripeCybernetics/indra_db" className="hover:text-gray-300">
                 GitHub
               </a>
               <Link to="/docs" className="hover:text-gray-300">
